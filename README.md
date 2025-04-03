@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Técnica em Informática para a Internet e estudo programação paralelamente.
+<p align="center">Técnica em Informática para a Internet e estudante do curso superior para tecnólogo em Análise e Desenvolvimento de Sistemas.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
