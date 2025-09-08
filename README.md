@@ -39,7 +39,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabpanullo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabpanullo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sabpanullo&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelans&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=nord)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabpanullo&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sabpanullo&theme=nord)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
