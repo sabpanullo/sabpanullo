@@ -51,7 +51,7 @@
   <img width="45" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
   <img width="45" src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" />
   <img width="45" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
   <img width="45" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" />
   <img width="45" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" />
   
