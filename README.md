@@ -35,10 +35,10 @@
 <div align="center">
 
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabpanullo&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabpanullo&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sabpanullo&theme=dracula&utcOffset=8)
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabpanullo&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabpanullo&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sabpanullo&theme=radical&utcOffset=8)
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabpanullo&theme=dracula) |  |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabpanullo&theme=radical) |  |
 | :-: | :-: | 
   
 </div>
