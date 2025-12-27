@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=b866be"/>
+<img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndka2FsYW9ldml4YnYzdDM4MW5zcm50ZTAzOWswaDdiNmR0MTVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l71tV7Zs7E46gSUoHs/giphy.gif"/>
 
 <div align="center">
   <samp>
@@ -94,7 +94,7 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b866be&height=100&section=footer"/>
+<img width=200% src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndka2FsYW9ldml4YnYzdDM4MW5zcm50ZTAzOWswaDdiNmR0MTVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l71tV7Zs7E46gSUoHs/giphy.gif"/>
 
 ![snake gif](https://github.com/sabpanullo/sabpanullo/blob/output/github-contribution-grid-snake.svg)
 
