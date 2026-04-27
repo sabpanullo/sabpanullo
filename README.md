@@ -14,7 +14,7 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+  <img src="https://i.pinimg.com/originals/ae/0c/4b/ae0c4b3bf2763cc1d00a3b37ecc859f6.gif" width="400">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/meow_♡-black" />
